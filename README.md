@@ -1,1 +1,2 @@
-# BiZHub
+# BizHub
+HCI project 
